@@ -1,6 +1,6 @@
 # Retail Strategy Analytics Dashboard
 
-## [Dashboard_Link](https://www.novypro.com/project/retail-stratergy-and-analytics-dashboard)
+## [Live Dashboard Link](https://www.novypro.com/project/retail-stratergy-and-analytics-dashboard)
 
 ## Table of content:
 1. [Project Objective](#project-objective)
