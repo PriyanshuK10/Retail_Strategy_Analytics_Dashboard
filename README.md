@@ -1,4 +1,4 @@
-# Retail Stratergy Analytics Dashboard
+# Retail Strategy Analytics Dashboard
 
 ## [Dashboard_Link](https://www.novypro.com/project/retail-stratergy-and-analytics-dashboard)
 
